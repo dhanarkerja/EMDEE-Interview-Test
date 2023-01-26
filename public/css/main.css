@@ -1,0 +1,7 @@
+.scroll-barang {
+    background-color: lightblue;
+    height: 50vh;
+    overflow-y: scroll;
+  }
+  .owl-carousel .owl-nav button
+  {width:25px; text-align:center; border:1px solid #ccc !important;}
